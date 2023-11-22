@@ -1,2 +1,3 @@
 # DSCA
-ppts of dsca sem 1
+
+rip to juniors!
